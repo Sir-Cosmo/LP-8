@@ -10,7 +10,12 @@ Was wäre ein geeignetes Projekt für diese LP8?
 Ein Projekt aus dem Buch "C# for Dummies"
 
 
-25.10.2024
+# 10.01.2025
 - [ ] LB 450
 - [ ] LB 450
 - [ ] "C# for Dummies" seite 70 bis 90.
+
+# 17.01.2025
+- [ ] "C# for Dummies" seite 75 bis 95.
+- [ ] "C# for Dummies" seite 95 bis 115.
+
