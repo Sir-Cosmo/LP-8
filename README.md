@@ -11,11 +11,17 @@ Ein Projekt aus dem Buch "C# for Dummies"
 
 
 # 10.01.2025
-- [ ] LB 450
-- [ ] LB 450
-- [ ] "C# for Dummies" seite 70 bis 90.
+- [X] LB 450
+- [X] LB 450
+- [X] "C# for Dummies" seite 70 bis 90.
 
 # 17.01.2025
+- [ ] Modul 347 Autrag 4037
+- [ ] Modul 347 Autrag 4037
+- [ ] Modul 347 Autrag 4056
+- [ ] Modul 347 Autrag 4058
+
+# 24.01.2025
 - [ ] "C# for Dummies" seite 75 bis 95.
 - [ ] "C# for Dummies" seite 95 bis 115.
 
